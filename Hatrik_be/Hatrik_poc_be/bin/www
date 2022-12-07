@@ -1,0 +1,30 @@
+const http = require("http")
+const app = require("../app")
+
+function normalizePort(val){
+    const normalize =parseInt(val,10);
+    
+    if (Number.isNaN(normalize)){
+        return false ;
+    }
+
+    if (normalize >= 0){
+        return normalize
+    }
+
+    return false;
+}
+
+const port = normalizePort(process.env.PORT || '3000');
+app.set('port',port);
+
+const server = http.createServer(app)
+
+function onListening(){
+    const addr =server.address();
+    const bind = typeof addr === 'string' ? `pipe ${addr}`:`${port}`;
+    console.log(`server listening on ${bind}` )
+}
+
+server.on('listening', onListening)
+server.listen(port)
