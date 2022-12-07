@@ -1,0 +1,45 @@
+Private Key : 2868b64f02fe8ba76b499c9b2077740152dc4292ef5f3d1d03570f0e853eea9e
+Public Key : 041a9bc5b57a1bb30a1e8abc30d784039578de3ada99c9ab461c06bd3d075febb154593bdf1259de048121106c3bfe7b46dd8748d1a29ec24483517809ce551367
+Address : 0xd3C99308e8C4d9E3C23884eD1B93547A44785EC8
+
+Account 2    
+
+Private key: '0x3294cc8f98993e4dd430c1fb91bca047df9952c1209b225d77c419de503a1e28'
+Address : '0x3152dae5a2080Ba39A8EA9637b0fDC908d6cEB1D'
+
+API KEY : PMAK-62c3d332440f9160945039c6-58a9c88b5aaac74ceef60793b09a716455
+
+
+NFT
+transaction hash:    0x7bf98372e7b53749612b9037afc96484734ae44b9689dde85606c245965cd0b3
+   > Blocks: 1            Seconds: 22
+   > contract address:    0xAD48E5Ca8B940FC887C2898D5e91fF845F15132c
+   > block number:        12576561
+   > block timestamp:     1657612944
+   > account:             0xd3C99308e8C4d9E3C23884eD1B93547A44785EC8
+   > balance:             1.997012391092360612
+   > gas used:            2003411 (0x1e91d3)
+   > gas price:           1.491261108 gwei
+   > value sent:          0 ETH
+   
+   Deploying 'MyToken'
+   -------------------
+   > transaction hash:    0x818160eca0a701c6895d205979f22b12c7aeb236f24d8c36e5b239b8acf25807
+   > Blocks: 3            Seconds: 33
+   > contract address:    0xc965aeAAB6dBe028F3719780a0C742c3008CCB3A
+   > block number:        12581922
+   > block timestamp:     1657686000
+   > account:             0xd3C99308e8C4d9E3C23884eD1B93547A44785EC8
+   > balance:             1.992710630702212844
+   > gas used:            2884646 (0x2c0426)
+   > gas price:           1.491261108 gwei
+   > value sent:          0 ETH
+   > total cost:          0.004301760390147768 ETH
+
+added https://ipfs.io/ipfs/QmV4nfcJWMjSbCzBPpRB5wvx89aqxfSKdicL2APAFUUwwS nft.json
+
+ mytoken deployed to: 0x7459be54c2d383d66424A1D52721E6C1aE1a0587  
+ 
+ sir muje 19785+26415+26415 = 72615 salary recieve hue hai 3 months mai, but muje 10500*3 = 31500 milna chiye tha 
+ 
+ Happy Teacher's day @keshav Thanku so much for Being such a kind mentor-I hope I can return the favor sometime in the future , i will always be thankful to you.
